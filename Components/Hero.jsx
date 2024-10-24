@@ -44,7 +44,7 @@ function Hero() {
           <div className="order-2 md:order-2 relative flex justify-center items-center">
             <div className="overflow-hidden">
               <img 
-                src="/hero1.png" 
+                src="/assets/hero1.png" 
                 className="overflow-hidden w-full h-full object-contain rounded-full" 
                 alt="Dining Experience" 
               />
