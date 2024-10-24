@@ -1,7 +1,7 @@
 // pages/_app.js
 import { useEffect, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import InitialTransition from '@/components/InitialTransition';
+import InitialTransition from '@/Components/InitialTransition';
 import '../styles/globals.css';
 
 const pageTransition = {
